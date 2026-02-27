@@ -1,0 +1,105 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-image: url("https://www.europanet.com.br/upload/id_produto/107___/107471g.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+
+}
+
+h1 {
+
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+h2 {
+
+    font-family: "Arial", sans-serif;
+    padding-top: 10%;
+    padding-left: 5%;
+
+}
+
+h3 {
+
+    font-family: "Arial", sans-serif;
+    font-weight: normal;
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+.img_principal img{
+
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 70vh;
+}
+
+.img_nes img {
+
+    padding-top: 3%;
+    height: 70vh;
+
+}
+
+.img_ps1 img{
+
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    height: 60vh;
+}
+
+.img_videogames_atuais img {
+
+    padding-top: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    height: 70vh;
+}
+
+.img_nes_jogos img
+{
+
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    height: 60vh;
+
+}
+
+.img_pong img{
+
+    padding-top: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    height: 70vh;
+
+}
+
+.quadrado{
+
+    background-color: lightblue;
+    margin:  0 40vh 0 40vh;
+    max-width: 900px;
+    width: 100%;
+    height: 5500px;
+    align-items: center;
+    
+
+}
